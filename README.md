@@ -1,7 +1,7 @@
 
 # BlogIT
 
-BlogIT is a simple blogging platform built using HTML, SCSS and javascript. It allows users to create blog posts, categorize them, and add tags. It also provides a commenting system for users to leave feedback on blog posts.
+BlogIT is a simple blogging platform built using HTML, SCSS, javascript and MongoDB. It allows users to create blog posts, categorize them, and add tags. It also provides a commenting system for users to leave feedback on blog posts.
 
 
 
